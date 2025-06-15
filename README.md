@@ -1,4 +1,4 @@
-### Hello World! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+### Hello ! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 
 ![](https://komarev.com/ghpvc/?username=asmaasaleh&label=Profile%20Visits&color=blue&style=for-the-badge)
 
