@@ -15,9 +15,7 @@ I'm **Asmaa Saleh**, a passionate **Front-End Developer** currently learning the
 ---
 
 #### 📫 How to reach me:
-
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com) &nbsp;
-[<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>](mailto:your.email@example.com) &nbsp;
+[<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>](mailto:smsmsaleh12@gmail.com) &nbsp;
 [<img src="https://img.icons8.com/ios-glyphs/30/github.png" width="3.5%"/>](https://github.com/asmaasaleh)
 
 ---
