@@ -1,43 +1,41 @@
-[![Header](https://raw.githubusercontent.com/AsmaaSaleh/AsmaaSaleh/main/readme_header.png "Header")](#)
+### Hello World! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 
-# Hello there! 👋
+![](https://komarev.com/ghpvc/?username=asmaasaleh&label=Profile%20Visits&color=blue&style=for-the-badge)
 
-I'm **Asmaa Saleh**, a passionate **Front-End Developer** from Egypt 🌍.  
-I’m currently focused on building beautiful and responsive websites using **HTML** and **CSS**.
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="200"/>
 
----
+I'm **Asmaa Saleh**, a passionate **Front-End Developer** currently learning the fundamentals of **HTML** and **CSS**.
 
-## 🛠️ Technologies & Tools
-
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=1572B6)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
-![](https://img.shields.io/badge/Version_Control-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
+- 🌱 I’m currently learning HTML5 and CSS3
+- 💡 Exploring how to build responsive and accessible web pages
+- 🎯 Goal: To become a professional front-end developer
+- 📚 Currently working on small layout and landing page projects
+- ⚡ Fun fact: I enjoy turning design ideas into clean code!
 
 ---
 
-## 📈 GitHub Stats
+#### 📫 How to reach me:
 
-<a href="https://github.com/AsmaaSaleh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AsmaaSaleh&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=false" />
-</a>
-
----
-
-## 🌱 Learning Journey
-
-- 🔨 Currently learning **JavaScript**
-- 📚 Interested in building my first portfolio site
-- ✨ Looking forward to learning **responsive design** and **accessibility**
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com) &nbsp;
+[<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>](mailto:your.email@example.com) &nbsp;
+[<img src="https://img.icons8.com/ios-glyphs/30/github.png" width="3.5%"/>](https://github.com/asmaasaleh)
 
 ---
 
-## 📬 Let's Connect
+#### 🛠️ Languages and Tools
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Asmaa%20Saleh-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/your-link-here)
-[![GitHub](https://img.shields.io/badge/GitHub-AsmaaSaleh-informational?style=flat&logo=github&logoColor=white&color=181717)](https://github.com/AsmaaSaleh)
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png"></code>
 
 ---
 
-> “The journey of a thousand lines of code begins with a single `<div>`.”
+#### 📊 GitHub Stats
+
+![Asmaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=asmaasaleh&show_icons=true&theme=radical)
+
+---
+
+> “Every expert was once a beginner. Keep going!” 💪
 
